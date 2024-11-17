@@ -5,6 +5,7 @@
 ![Pasted image 20241117135824.png](/img/user/Pasted%20image%2020241117135824.png)
 # Recipe: Double-Batch Perfect Scones
 
+This recipe yields about 4 discs of 6 scones each (24 cones total). It is a doubled recipe because I like to share. Half it if need be.
 ## Ingredients
 - 5 1/2 cups (660g) all-purpose flour
 - 2/3 cup (130g) sugar
