@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/recipes/testnote","permalink":"/recipes/testnote/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"/recipes/testnote","permalink":"/recipes/testnote/"}
 ---
 
 test test 
