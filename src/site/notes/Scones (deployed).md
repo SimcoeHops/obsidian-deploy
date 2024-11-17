@@ -3,7 +3,7 @@
 ---
 
 
-# [[Recipe: The Best Scones Recipe Ever\|Recipe: The Best Scones Recipe Ever]]
+# Recipe: The Best Scones Recipe Ever
 
 ## Ingredients
 - 3 cups (360g) all-purpose flour
