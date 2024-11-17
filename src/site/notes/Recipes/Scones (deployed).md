@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recipes/scones-deployed/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"/recipes/scones","permalink":"/recipes/scones/","tags":["gardenEntry"]}
 ---
 
 ![Pasted image 20241117135824.png](/img/user/Pasted%20image%2020241117135824.png)
